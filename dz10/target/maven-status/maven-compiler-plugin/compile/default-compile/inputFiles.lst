@@ -1,0 +1,11 @@
+/Users/dusanstanojevic/dz10/src/main/java/com/it355/models/Contact.java
+/Users/dusanstanojevic/dz10/src/main/java/com/it355/services/LoginService.java
+/Users/dusanstanojevic/dz10/src/main/java/com/it355/controllers/Contacts.java
+/Users/dusanstanojevic/dz10/src/main/java/com/it355/dao/UserDao.java
+/Users/dusanstanojevic/dz10/src/main/java/com/it355/mappers/UserMapper.java
+/Users/dusanstanojevic/dz10/src/main/java/com/it355/dao/ContactDao.java
+/Users/dusanstanojevic/dz10/src/main/java/com/it355/controllers/rest/ContactsRest.java
+/Users/dusanstanojevic/dz10/src/main/java/com/it355/models/User.java
+/Users/dusanstanojevic/dz10/src/main/java/com/it355/controllers/rest/UserRest.java
+/Users/dusanstanojevic/dz10/src/main/java/com/it355/logers/ContactLogger.java
+/Users/dusanstanojevic/dz10/src/main/java/com/it355/mappers/ContactMapper.java
